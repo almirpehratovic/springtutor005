@@ -1,4 +1,4 @@
-# Exception handling in Spring MVC and @ControllerAdvice
+# Spring and RSS
 ## Preface
 This is example of creatinf RSS feeds in Spring MVC. Tutorial can be found at 
 
